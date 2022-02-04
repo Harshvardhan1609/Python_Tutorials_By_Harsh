@@ -1,0 +1,2 @@
+# Python_Tutorials_By_Harsh
+Hey Guys ! In this video we will dive into the journey of learning python and discovering the true essence of python in the field of A-ML and also in this series of tutorials we will explore the brief of all the things related to python modules and searching techniques and operations on the string and many more and we will follow the project oriented approach to make people understand what are the usage of this language in the industry.  In the this video we are dedicated to setup our python environment for future projects.
