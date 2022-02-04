@@ -1,2 +1,5 @@
-# Python_Tutorials_By_Harsh
+# Python By Harsh 🔰🔰 💖
 Hey Guys ! In this video we will dive into the journey of learning python and discovering the true essence of python in the field of A-ML and also in this series of tutorials we will explore the brief of all the things related to python modules and searching techniques and operations on the string and many more and we will follow the project oriented approach to make people understand what are the usage of this language in the industry.  In the this video we are dedicated to setup our python environment for future projects.
+
+## Why to Learn Python 🤔🤔🤔🤔🤔?
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
